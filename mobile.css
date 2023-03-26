@@ -1,0 +1,104 @@
+/* Main Styling */
+h4 { 
+    padding-bottom: 20px;
+  }
+  
+  /* Utility Classes */
+  .display-1 { 
+    font-size: 50px; 
+  }
+  
+  /* Header */
+  #mainheader {
+    background-position: center;
+    background-size: cover;
+    /* background-size: 100% 100%; */
+    height: 100%;
+    padding-bottom: 50px;
+  }
+  
+  /* Navbar */
+  #navbar {
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  
+  
+  #navbar .logo {
+    float: none;
+    /* padding-top: 16px;
+    font-size: 25px; */
+  }
+  
+  #navbar ul {
+    /* list-style: none; */
+    float: none;
+    display: inline-block;
+  }
+  
+  /* #navbar ul li {
+    float: left;
+  }
+  #navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+  }
+  #navbar ul li a:hover,
+  #navbar ul li a.current {
+    text-decoration: underline;
+  } */
+  
+  /* Showcase */
+  #showcase {
+    float: none;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-top: 20px;
+  }
+  
+  #showcase p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  /* Features */
+  #features {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  
+  .features-row .card-left {
+    float: none;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .features-row .card-right {
+    float: none;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .features-row .card-left img,
+  .features-row .card-right img {
+    height: 55px;
+    padding-bottom: 10px;
+  }
+  
+  /* Contact */
+  #contact {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  
+  #contact form {
+    width: 80%;
+  }
+  
+  /* Footer */
+  #mainfooter {
+    background: #FEF9FB;
+    text-align: center;
+    padding:30px;
+  }
